@@ -1,12 +1,9 @@
-function dojo() {
-    location.href ="inoue.html"
+function estudio(){
+    location.href="estudios.html";
 }
-function torneos() {
-    location.href ="torneos.html"
+function trabajo(){
+    location.href="experiencia.html";
 }
-function federacion() {
-    location.href ="https://karatefak.com.ar/"
-}
-function mundial() {
-    location.href ="https://www.wkf.net/"
+function phone(){
+    location.href="https://api.whatsapp.com/send?phone=1165076695";
 }
